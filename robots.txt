@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://des-moines.mobiledevelopers.app/sitemap.xml
